@@ -4,7 +4,7 @@
 
 ## Welcome to HAITEC
 
-![image](https://github.com/Pc-panpan/haitec.github.io/blob/main/docs/images/HAI%E6%8A%A0%E5%9B%BE.png)
+![image](https://github.com/Pc-panpan/haitec/blob/main/docs/images/HAITEC%E7%94%9F%E6%80%81%E5%9B%BE%E8%B0%B1.jpg?raw=true)
 
 ## What is FabAcademy?
 
