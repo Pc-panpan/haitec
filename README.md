@@ -1,24 +1,16 @@
-## Welcome to my Fab Academy 2020 site
+## Welcome to Apprentice 2026 site
 
 Here is our study schedule. More assignment detials seen from web [HAITEC](http://haitec.top/).
 
-## Global Class
-Time  
-Wednesday, 9.00AM Boston Time (in Shanghai: 22.00PM in winter, 21.00PM in spring)  
-9.00AM - 10.30AM  > Random review: students need to attend live  
-10.30AM  - 10.45AM  > Break  
-10.45AM  - 12.00AM > Neil's class  
+## Online Theoretical Class
+Time:  
+Wednesday, 7.30AM
 
-## Local Class
-Time  
-Thursday, 14.00PM Shanghai Time  
+## Offline Practice Class
+Time:  
+Thursday, 10.00AM
 (Schedule may vary)  
 
-
 ## Regional Reviews
-Time  
-Morning session: Tuesday, 11.00AM Shanghai Time  
-
-## Recitations
-Time  
-Monday, 9.00AM Boston Time  (in Shanghai: 22.00PM in winter, 21.00PM in spring)
+Time:  
+Morning session: Tuesday, 10.00AM
