@@ -3,12 +3,10 @@
 ## Assignment
    * plan and sketch a potential final project 
 
-
 This week I worked on defining my final project idea and started to getting used to the documentation process. My inspiration comes from the picture below:  
 <img src="https://gitlab.fabcloud.org/academany/fabacademy/2020/labs/oshanghai/students/pan-cheng/raw/master/docs/images/week01/%E6%A6%82%E5%BF%B5%E5%9B%BE.jpg" width = "80%">  
 This is actully a LED device which can be freely combined as you wish.With touch sensor inside,you can turn on and turn off the light with just a touch.  
 
-  
 ## The hive table
 Here is my concept:  
 <img src="https://gitlab.fabcloud.org/academany/fabacademy/2020/labs/oshanghai/students/pan-cheng/raw/master/docs/images/week01/sketch.jpg" width = "80%">  
