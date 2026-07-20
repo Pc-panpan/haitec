@@ -4,13 +4,35 @@
 
 ## Welcome to HAITEC
 
-![image](../docs/images/HAI.png)
+<img src="../docs/images/HAI.png" width="50%">  
 
 ## What is HAITEC?
 
 ![image](../docs/images/HAITEC_ecology.jpg)
 
 
-The Fab Academy program is a fast paced, project-based exploration of making things with the tools in the fab lab. It is how the fab lab network trains instructors. The learning is distributed, as opposed to distance: The tools and processes are introduced in a weekly global lecture (14:00 GMT) delivered centrally (normally by Neil Gershenfeld) and then the local lab provides support and tuition. The rest is self-motivated exploration of the topic for the week. See the list of weekly tasks to get an idea of the schedule. The weekly project assignments are compulsory, but the complexity of the outcome is variable and unprescribed past a certain base level of understanding. This approach leads to a lot of different ideas and outcomes, very different from the nearly identical products of a step-by-step tutorial. It is a learning approach that I really enjoy.
+HAITEC — Innovation Ecosystem
 
-[![image](https://gitlab.fabcloud.org/academany/fabacademy/2020/labs/oshanghai/students/pan-cheng/raw/master/docs/images/fabacademy.jpg)](http://fabacademy.org/)
+HAITEC is more than a makerspace—it's a platform for innovation. We bring together education, technology, design, and community to empower creators of all ages. Through hands-on learning, digital fabrication, AI, and collaborative innovation, we help transform ideas into real-world solutions.
+
+Our ecosystem is built around six interconnected initiatives:
+
+**HAI.Lab**  
+A space for research, prototyping, digital fabrication, and creative engineering.
+
+**HAI.Academy**  
+Project-based education in AI, robotics, digital making, design thinking, and future-ready skills.
+
+**HAI.Club**  
+A membership network connecting makers, innovators, entrepreneurs, and lifelong learners.
+
+**HAI.Community**  
+An open platform that partners with schools, libraries, governments, and organizations to make innovation accessible to everyone.
+
+**HAI.OPC**  
+ Empowers individuals to build and operate a One Person Company. By combining AI, digital tools, automation, creative technology, and entrepreneurship, we help creators, educators, makers, and innovators turn their ideas into sustainable businesses.
+
+**HAI.Foundation**  
+Our social impact initiative dedicated to expanding access to maker education, supporting young innovators, and promoting sustainable technological development.
+
+*Whether you're a student, educator, entrepreneur, or creator, [HAITEC](http://haitec.top/) is where ideas become reality.*
