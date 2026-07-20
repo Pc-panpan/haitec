@@ -3,7 +3,7 @@
 ## Hello, I'm Cheng Pan
 ## Welcome to HAITEC
 
-<img src="../docs/images/HAI.png" width="50%">  
+<img src="images/HAI.png" width="50%">  
 
 ## What is HAITEC?
 
