@@ -2,11 +2,9 @@
 
 ## Hello, I'm Cheng Pan
 ## Welcome to HAITEC
+<img src="images/HAI.png" width="50%" height="50%" align="middle" />   
 
-<img src="images/HAI.png" width="50%">  
-
-## What is HAITEC?
-
+## What is HAITEC?  
 ![](images/HAITEC_ecology.jpg)  
 
 HAITEC — Innovation Ecosystem
