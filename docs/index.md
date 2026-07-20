@@ -7,7 +7,7 @@
 
 ## What is HAITEC?
 
-![images](../docs/images/HAITEC_ecology.jpg)  
+![](../docs/images/HAITEC_ecology.jpg)  
 
 HAITEC — Innovation Ecosystem
 
