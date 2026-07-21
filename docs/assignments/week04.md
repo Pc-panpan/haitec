@@ -1,4 +1,4 @@
-# 4 Computer-Controlled Cutting
+# 4. Computer-Controlled Cutting
 
 ## Assignment
 ### group assignment:
