@@ -32,3 +32,7 @@ An open platform that partners with schools, libraries, governments, and organiz
 Our social impact initiative dedicated to expanding access to maker education, supporting young innovators, and promoting sustainable technological development.
 
 *Whether you're a student, educator, entrepreneur, or creator, [HAITEC](http://haitec.top/) is where ideas become reality.*
+
+
+# Students list:
+[ChenChenC](https://chenzhaorong0530.github.io/CHEN/)
