@@ -35,4 +35,7 @@ Our social impact initiative dedicated to expanding access to maker education, s
 
 
 # Students list:
-[ChenChenC](https://chenzhaorong0530.github.io/CHEN/)
+[ChenChen](https://chenzhaorong0530.github.io/CHEN/)
+[PeterZhang](https://zlhnkf-git.github.io/Peter-zhanglei/)
+[liangQiaomu](https://playmaker325.github.io/depot/)
+[Iris]()
